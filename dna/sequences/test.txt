@@ -1,0 +1,4 @@
+longest_match = 2
+sub = 0
+
+aatc aatc aatc aatg aatc aatc fn nnktnktn
